@@ -38,7 +38,7 @@ Atualmente, há uma lacuna tecnológica crônica no mercado brasileiro: as solu�
 
 ## Por que Kotlin? (Além do Android)
 
-Embora o Kotlin seja amplamente consolidado como a linguagem oficial para o desenvolvimento mobile Android, ele se consolida como uma ferramenta de propósito geral de altíssimo nível para aplicações corporativas na JVM (Backend e Desktop). A escolha do Kotlin como linguagem central do QAP fundamenta-se em três pilares:
+Embora o Kotlin seja amplamente consolidado como a linguagem oficial para o desenvolvimento mobile Android, vem tornando-se também uma ferramenta de propósito geral de altíssimo nível para aplicações corporativas na JVM (Backend e Desktop). A escolha do Kotlin como linguagem central do QAP fundamenta-se em três pilares:
 
 1. **Segurança e Robustez (Null Safety):** Em arquiteturas de compliance, falhas em tempo de execução podem gerar omissões graves de monitoramento. O sistema de tipos do Kotlin mitiga nativamente o risco de *NullPointerExceptions*, garantindo esteiras de triagem previsíveis e tolerantes a falhas estruturais.
 2. **Sintaxe Concisa e Foco no Domínio:** A expressividade da linguagem permite traduzir as regras complexas estabelecidas na Carta Circular BCB nº 4.001/2020 em código limpo, declarativo e de fácil manutenção, simplificando processos de auditoria interna e externa.
