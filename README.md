@@ -19,13 +19,13 @@ Atualmente, há uma lacuna tecnológica crônica no mercado brasileiro: as solu�
   * **Administradores:** Com privilégios totais de gestão de contas (criar, promover, rebaixar e inativar usuários).
   * **Usuários Operacionais:** Com acessos restritos exclusivamente às ferramentas de produção e análise, sem privilégios administrativos.
 
-- [ ] **Auditoria Contínua e Integridade de Dados (KYC)**
-  * Rotinas automatizadas para varredura e validação de integridade no banco de dados, identificando de forma proativa campos inconsistentes, mal formatados ou incompletos.
+- [x] **Auditoria e Integridade de Dados (KYC)**
+  * Rotinas para varredura e validação de integridade no banco de dados, identificando de forma proativa campos inconsistentes, mal formatados ou incompletos.
   * Sistema de rastreamento de ciclo de vida cadastral, gerando relatórios gerenciais periódicos sobre cadastros vencidos e emitindo alertas preditivos para documentações prestes a expirar (prazo de validade anual).
 
 ---
 
-## Roadmap e Motor de Regras
+## Funcionalidades futuras.
 
 - [ ] **Ingestão de Dados e Listas Restritivas (Batch Processing)**
   Desenvolvimento de *parsers* customizados em Kotlin para a importação e leitura local de arquivos estruturados nos formatos XML e CSV. Essa abordagem offline elimina a dependência de APIs externas de terceiros, garantindo resiliência operacional e maior velocidade no cruzamento da base de clientes com as listas de sanções da **ONU** e de **Pessoas Politicamente Expostas (PEP)** para fluxos de Diligência Reforçada (*Enhanced Due Diligence - EDD*).
