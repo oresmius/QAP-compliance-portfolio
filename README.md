@@ -32,7 +32,7 @@ Atualmente, há uma lacuna tecnológica crônica no mercado brasileiro: as solu�
 
 - [ ] **Monitoramento Dinâmico (Caso de Uso em Destaque)**
   O sistema implementará um *Rule Engine* especializado na mitigação de riscos e prevenção a fraudes em operações de crédito e antecipação de recebíveis.
-  * **Análise de Lastro e Capacidade Operacional:** Algoritmos desenvolvidos em Kotlin focados na identificação de picos anômalos de faturamento. O motor de regras emitirá alertas automáticos quando o volume de duplicatas descontadas por um cliente (como do setor de manufatura/confecção) ultrapassar abruptamente a capacidade produtiva ou financeira declarada durante a etapa de *onboarding* (KYC).
+  * **Análise de Lastro e Capacidade Operacional:** Algoritmos desenvolvidos em Kotlin focados na identificação de picos anômalos de faturamento. O motor de regras emitirá alertas quando o volume de duplicatas descontadas por um cliente (como do setor de manufatura/confecção) ultrapassar abruptamente a capacidade produtiva ou financeira declarada durante a etapa de *onboarding* (KYC).
 
 ---
 
