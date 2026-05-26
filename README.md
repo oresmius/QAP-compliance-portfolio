@@ -43,3 +43,5 @@ Embora o Kotlin esteja amplamente consolidado como a linguagem oficial para o de
 1. **Segurança e Robustez (Null Safety):** Em arquiteturas de compliance, falhas em tempo de execução podem gerar omissões graves de monitoramento. O sistema de tipos do Kotlin mitiga nativamente o risco de *NullPointerExceptions*, garantindo esteiras de triagem previsíveis e tolerantes a falhas estruturais.
 2. **Sintaxe Concisa e Foco no Domínio:** A expressividade da linguagem permite traduzir as regras complexas estabelecidas na Carta Circular BCB nº 4.001/2020 em código limpo, declarativo e de fácil manutenção, simplificando processos de auditoria interna e externa.
 3. **Interoperabilidade Total com a JVM:** O Kotlin possui compatibilidade bidirecional de 100% com o ecossistema Java. Essa característica viabiliza por exemplo o uso do **JavaFX** para a construção de uma interface desktop multiplataforma, e do algoritmo **Argon2id** combinando a engenharia moderna do Kotlin com a maturidade de componentes do Java.
+
+## Acompalhe meu Devlog no opção do menu "Discussions" !
